@@ -47,24 +47,21 @@ Solicitador é construído com [Next.js](https://nextjs.org/) (versão `13.0.4`)
 
 <p align="right">[voltar ao topo](#readme-top)</p>
 
-### Instalação
+## Instalação
 
 ```bash
 npm install
-
-<!-- DESENVOLVIMENTO -->
-
-## Desenvolvimento
-
-Primeiro, execute o servidor de desenvolvimento:
+```
 
 ```bash
 npm start
+```
 
 ou
 
 ```bash
 npm run dev
+```
 
 Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
@@ -109,7 +106,7 @@ Distribuído sob a Licença MIT. Consulte `LICENSE.txt` para obter mais informa�
 
 ## Contato
 
-José Horta - @josh_hortt
+José Horta Calvário - @josh_hortt
 
 Meu E-mail - joshhortt@yahoo.com
 
