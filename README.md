@@ -12,7 +12,7 @@ Abaixo está uma amostra da página de serviços.
 
 Construído com Next.js e Markdown
 
-<p align="right">[voltar ao topo](#readme-top)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Funcionalidades
 
@@ -33,7 +33,7 @@ Construído com Next.js e Markdown
 - Tags SEO
 - Google Analytics
 
-<p align="right">[voltar ao topo](#readme-top)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Configuração
 
@@ -45,7 +45,7 @@ Construído com Next.js e Markdown
 
 Solicitador é construído com [Next.js](https://nextjs.org/) (versão `13.0.4`).
 
-<p align="right">[voltar ao topo](#readme-top)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Instalação
 
