@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Páginas",
+    "links": [
+      {
+        "name": "Home",
+        "link": "/"
+      },
+      {
+        "name": "Sobre",
+        "link": "/about"
+      },
+      {
+        "name": "Serviços",
+        "link": "/services"
+      },
+      {
+        "name": "Contacto",
+        "link": "/contact"
+      },
+      {
+        "name": "Blog",
+        "link": "/blog"
+      }
+    ]
+  },
+  {
+    "title": "Social",
+    "links": [
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/evaristo.amaro/",
+        "social_icon": "Facebook",
+        "new_window": true
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/evaristo-amaro-988588124/",
+        "social_icon": "LinkedIn",
+        "new_window": true
+      }
+    ]
+  }
+]

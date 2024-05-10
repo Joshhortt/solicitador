@@ -1,0 +1,25 @@
+{
+  "site_name": "Evaristo Amaro",
+  "site_title": "Solicitador",
+  "description": "Receba o melhor acompanhamento em questões legais.",
+  "author": "Evaristo Amaro",
+  "author_email": "evaristoamarosolicitador@gmail.com",
+  "images": [],
+  "_array_structures": {
+    "images": {
+      "style": "select",
+      "values": [
+        {
+          "label": "Image",
+          "icon": "image",
+          "value": {
+            "image": "",
+            "description": "",
+            "height": 0,
+            "width": 0
+          }
+        }
+      ]
+    }
+  }
+}
