@@ -1,121 +1,116 @@
-# Solicitor
+# Solicitador
 
-Solicitor is a firm business website in Development.
+Solicitador é um website dirigido para Advogados e Solicitadores.
 
 ## Design
 
-Design Phase is Approved by the client. Below is a sample services page.
+Abaixo está uma amostra da página de serviços.
 
-![Solicitor template screenshot](_screenshot.png)
+![Captura de ecrã do modelo do Solicitador](_screenshot.png)
 
 ## Stack
 
-Built with Next.js and Markdown
+Construído com Next.js e Markdown
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">[voltar ao topo](#readme-top)</p>
 
-## Features
+## Funcionalidades
 
-- Contact form
-- Home page
-- Blog page
-- About page
-- Services page
-- Contact page
-- Contact form
-- Pre-styled components
-- Post category pages
-- Disqus comments for posts
-- Staff and author system
-- Configurable footer
-- Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-- RSS/Atom feed
-- SEO tags
+- Formulário de contato
+- Página inicial
+- Página do blog
+- Página sobre
+- Página de serviços
+- Página de contato
+- Formulário de contato
+- Componentes pré-estilizados
+- Páginas de categorias de postagens
+- Comentários Disqus para postagens
+- Sistema de funcionários e autores
+- Rodapé configurável
+- Otimizado para edição no [CloudCannon](https://cloudcannon.com/)
+- Feed RSS/Atom
+- Tags SEO
 - Google Analytics
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">[voltar ao topo](#readme-top)</p>
 
-## Setup
+## Configuração
 
-1. Add your site and author details in `content/data/seo.json`.
-2. Add your Google Analytics and Disqus keys to `content/data/site.json`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/)
-   or Next.js locally).
+1. Adicione os detalhes do seu site e autor em `content/data/seo.json`.
+2. Adicione suas chaves do Google Analytics e Disqus em `content/data/site.json`.
+3. Inicie um fluxo de trabalho para ver a saída do seu site (com o [CloudCannon](https://app.cloudcannon.com/) ou localmente com Next.js).
 
-## Develop
+## Desenvolvimento
 
-Solicitor is built with [Next.js](https://nextjs.org/) (version `13.0.4`).
+Solicitador é construído com [Next.js](https://nextjs.org/) (versão `13.0.4`).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">[voltar ao topo](#readme-top)</p>
 
-### Installation
+### Instalação
 
 ```bash
 npm install
-```
 
-<!-- DEVELOPMENT -->
+<!-- DESENVOLVIMENTO -->
 
-## Development
+## Desenvolvimento
 
-First, run the development server:
+Primeiro, execute o servidor de desenvolvimento:
 
 ```bash
 npm start
-```
 
-or
+ou
 
 ```bash
 npm run dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-## Editing
+## Edição
 
-Solicitr is already optimised for adding, updating and removing pages, staff, posts, company details
-and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+O Solicitor já está otimizado para adicionar, atualizar e remover páginas, funcionários, postagens, detalhes da empresa e elementos do rodapé no CloudCannon.
 
-### Posts
+### Postagens
 
-- Add, update or remove a post in the _Posts_ collection.
-- The **Staff Author** field links to members in the **Staff** collection.
-- Change the defaults when new posts are created in `content/posts/_defaults.md`.
+- Adicione, atualize ou remova uma postagem na coleção Postagens.
+- O campo Autor do Funcionário faz a ligação com membros na coleção Funcionários.
+- Altere as predefinições quando novas postagens são criadas em `content/posts/_defaults.md`.
 
-### Contact Form
+### Formulário de Contato
 
-- Preconfigured to work with [CloudCannon](https://app.cloudcannon.com/).
-- Sends email to the address listed in company details.
+- Pré-configurado para funcionar com CloudCannon.
+- Envia e-mail para o endereço listado nos detalhes da empresa.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-### Staff
+### Funcionários
 
-- Reused around the site to save multiple editing locations.
+- Reutilizado em todo o site para economizar em vários locais de edição.
 
-### Footer
+### Rodapé
 
-- Exposed as a data file to give clients better access.
-- Set in the _Data_ / _Footer_ section.
+- Exposto como um arquivo de dados para dar melhor acesso aos clientes.
+- Configurado na seção Data / Rodapé.
 
-### Company details
+### Detalhes da Empresa
 
-- Reused around the site to save multiple editing locations.
-- Set in the _Data_ / _Company_ section.
+- Reutilizado em todo o site para economizar em vários locais de edição.
+- Configurado na seção Data / Empresa.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-## License
+## Licença
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distribuído sob a Licença MIT. Consulte `LICENSE.txt` para obter mais informações.
 
-## Contact
+## Contato
 
-José Horta - [@josh_hortt](https://twitter.com/josh_hortt)
+José Horta - @josh_hortt
 
-My E-mail - [joshhortt@yahoo.com](joshhortt@yahoo.com)
+Meu E-mail - joshhortt@yahoo.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
