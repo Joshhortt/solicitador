@@ -11,8 +11,7 @@ export default function Home({ page }) {
 					<blockquote className="testimonial" key={i}>
 						<p className="testimonial-message">{testimonial.message}</p>
 						<p className="testimonial-author">
-							{/* <img src={testimonial.testimonial_image} alt={`Photo of ${testimonial.name}`} />  */}
-							{testimonial.name}
+							<img src={testimonial.testimonial_image} alt={`Photo of ${testimonial.name}`} /> 
 						</p>
 					</blockquote>
 				))}
