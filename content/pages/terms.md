@@ -7,11 +7,11 @@ content_html: "<h3>1. Termos</h3>
 <h3>2. Uso de Licença</h3>
 <p>É concedida permissão para efetuar download dos materiais (informações ou software) do Solicitador Evaristo Amaro, apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode:</p>
 <ol>
-<li>modificar ou copiar os materiais; </li>
-<li>usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial);</li>
-<li>tentar descompilar ou fazer engenharia reversa de qualquer software contido no site Solicitador Evaristo Amaro</li>
-<li>remover quaisquer direitos de autor ou outras notações de propriedade dos materiais;</li>
-<li>transferir os materiais para outra pessoa ou 'espelhar' os materiais em qualquer outro servidor.</li>
+<li>Modificar ou copiar os materiais; </li>
+<li>Usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial);</li>
+<li>Tentar descompilar ou fazer engenharia reversa de qualquer software contido no site Solicitador Evaristo Amaro;</li>
+<li>Remover quaisquer direitos de autor ou outras notações de propriedade dos materiais;</li>
+<li>Transferir os materiais para outra pessoa ou 'espelhar' os materiais em qualquer outro servidor.</li>
 </ol>
 <p>Esta licença será automáticamente rescindida se violar alguma dessas restrições e poderá ser rescindida pelo Solicitador Evaristo Amaro a qualquer momento. Ao encerrar a visualização desses materiais ou após o término desta licença, você deve apagar todos os materiais baixados em sua posse, seja em formato eletrónico ou impresso.</p>
 
