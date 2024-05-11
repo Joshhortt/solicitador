@@ -243,6 +243,6 @@ Caso tenha alguma dúvida ou questão relacionada com esta Política de Privacid
 <details>
 <summary>ÚLTIMA VERSÃO</summary>
 <br>
-7 Junho, 2023. Beja (Portugal)
+11 Maio, 2024. Beja (Portugal)
 </details>"
 ---
